@@ -1,0 +1,72 @@
+# .NET
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.log
+*.pdb
+*.vsp
+*.vspscc
+*.vssscc
+.vs/
+TestResults/
+*.dbmdl
+*.bak
+*.nupkg
+*.snupkg
+*.psess
+*.vspx
+*.tmp
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.sln.docstates
+
+# DotCover
+.idea/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Angular
+node_modules/
+dist/
+tmp/
+out-tsc/
+.angular/
+coverage/
+
+# Environment Files
+.env
+*.env.local
+*.env.*.local
+
+# npm log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Package lock files 
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

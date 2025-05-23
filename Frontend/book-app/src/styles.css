@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.bg-navy {
+    background-color: #0d1b2a !important;
+}
+.navbar-brand:hover {
+    color: #0d6efd !important; 
+}
+
+.btn-teal {
+    background-color: #008080; 
+    color: white;
+}
+.btn-teal:hover {
+    background-color: #006666; /* Darker Teal */
+    color: white;
+}
+
+.btn-purple {
+    background-color: #800080; 
+    color: white;
+}
